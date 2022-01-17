@@ -1,5 +1,5 @@
 # UI Programming: Adding widgets to viewport with C++
-**Engine Used - ** Unreal Engine
+**Engine Used -** Unreal Engine
 ## Workflow
 - Created a custom GameInstance using C++
 - Added functionality to check for the presence of the menu widget class
